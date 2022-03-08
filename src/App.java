@@ -90,7 +90,7 @@ public class App {
         // System.out.println(addNumbers(2,3));
         // int a = addNumbers(3, 5);
         // System.out.println("Sum :" + a);
-        Test newTest = new Test();
+        // Test newTest = new Test();
         // System.out.println("the name is " + newTest.name);
      
         
